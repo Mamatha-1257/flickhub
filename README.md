@@ -2,4 +2,4 @@
 A replica of bookmyshow web application built using Django framework
 
 
-This is my first year project where we were a team of 5.
+This was my first project where I learnt an new tech stack and also developed team bulding skills as I was a part of team of 5.
